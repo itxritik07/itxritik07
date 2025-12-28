@@ -1,83 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ritik</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Next.js Enthusiast</h3>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+###
 
----
+<h2 align="center">My name is Ritik and I'm a Full Stack Web Developer, from India.</h2>
 
-## 👨‍💻 About Me
+###
 
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- ⚡ Building modern web apps with **React, Next.js & Vite**
-- 🌱 Currently deepening knowledge in **Next.js & scalable backend architecture**
-- 🔥 Passionate about clean UI, performance & developer experience
-- 📫 Reach me at: **your.email@example.com**
+<h4 align="center">I’m a Full Stack Web Developer building modern, scalable web apps using MERN & Next.js 🚀 Passionate about clean UI, efficient backend systems, and continuous learning 💻✨</h4>
 
----
+###
 
-## 🛠️ Tech Stack
+<p align="left">✨ Started learning Web Development since 2025.<br>📚 I'm currently learning Next.js , other frameworks etc...<br>🎯 Currently working on BitLinks (Url shortener) project.</p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite" />
-</p>
+###
 
-### 🧠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<h2 align="left"></h2>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔹 **Full Stack Web Apps (MERN)**
-- 🔹 **Next.js SEO-Optimized Websites**
-- 🔹 **REST APIs with Express & MongoDB**
-- 🔹 **High-performance UI with React + Vite**
-
-> _Check my repositories for real-world projects & clean architecture._
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<h3 align="center">⚡ “Code. Build. Scale.” ⚡</h3>
+###
