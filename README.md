@@ -1,20 +1,16 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="center">My name is Ritik and I'm a Full Stack Web Developer, from India.</h2>
+<h2 align="left">My name is Ritik and I'm a Full Stack Web Developer, from India.</h2>
 
 ###
 
-<h4 align="center">I’m a Full Stack Web Developer building modern, scalable web apps using MERN & Next.js 🚀 Passionate about clean UI, efficient backend systems, and continuous learning 💻✨</h4>
+<h4 align="left">I’m a Full Stack Web Developer building modern, scalable web apps using MERN & Next.js 🚀 Passionate about clean UI, efficient backend systems, and continuous learning 💻✨</h4>
 
 ###
 
 <p align="left">✨ Started learning Web Development since 2025.<br>📚 I'm currently learning Next.js , other frameworks etc...<br>🎯 Currently working on BitLinks (Url shortener) project.</p>
-
-###
-
-<h2 align="left"></h2>
 
 ###
 
