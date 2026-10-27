@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Ritik and I'm a Full Stack Web Developer, from India.</h2>
+<h2 align="left">My name is Ritik, I am from India.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started learning Web Development since 2025.<br>📚 I'm currently learning Next.js , other frameworks etc...<br>🎯 Currently working on BitLinks (Url shortener) project.</p>
+<p align="left">✨ Started learning Web Development since 2025.<br>📚 I'm currently learning Next.js , other frameworks etc...</p>
 
 ###
 
